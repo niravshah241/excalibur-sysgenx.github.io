@@ -5,7 +5,7 @@ title: Home
 
 # SysGenX
 
-Excalibur-SysGenX is a Cross-Cutting Excalibur Project funded by [UKRI](https://ukri.org)
+Excalibur-SysGenX is a Part 1B Excalibur Project funded by [UKRI](https://ukri.org)
 and is a collaboration between researchers and developers at the
 following UK institutions: University of Cambridge, Imperial College London,
 University College London, University of Oxford.
